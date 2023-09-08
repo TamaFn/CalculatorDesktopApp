@@ -1,4 +1,2 @@
 # CalculatorDesktopApp
-Membuat Aplikasi Calculator Sederhana Menggunakan Bahasa C#
-
-PPP
+Make a Calculator App Using .NET Framework on Visual Studio Community using C# Language
