@@ -17,14 +17,14 @@
 
 
 ### 1. Fungsi Penambahan
-![First](Img/image.png)
+![First](image.png)
 
 ### 2. Fungsi Pengurangan
-![First](Img/image1.png)
+![First](image1.png)
 
 ### 3. Fungsi Perkalian
-![First](Img/image2.png)
+![First](image2.png)
 
 ### 4. Fungsi Pembagian
-![First](Img/image3.png)
+![First](image3.png)
 
